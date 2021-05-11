@@ -99,7 +99,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              .h5.mb-0 Instructivo – PATRÓN FALDA BÁSICA
+              .h5.mb-0 Instructivo – Patrón falda básica
               p Para dar orden a este proceso es necesario hacer una orientación y un paso a paso, tal como se describe en el siguiente instructivo que lo lleva a la elaboración del patrón de falda básica. 
             .col-sm-auto
               a.boton.boton--a(:href="obtenerLink('/downloads/Instructivo_PATRON_FALDA_BÁSICA.pdf')"   target="_blank")

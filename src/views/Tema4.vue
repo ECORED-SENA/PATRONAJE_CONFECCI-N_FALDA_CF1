@@ -22,78 +22,80 @@
     .span--morado.px-2.py-2.mb-3
       .h5.my-auto Líneas
     p.mb-5.ms-4 Una línea se define como la distancia entre dos puntos y puede ser trazada hacia diferentes direcciones con escuadra o regla, pueden ser:
-    TabsA.mb-5
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Horizontales")
-        .row
-          .col-5
-            figure
-              img(src='@/assets/curso/img44.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
-          .col-7
-            .h4 Horizontales
-            p Son lineas en dirección recta que se asemejan al horizonte.
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Verticales")
-        .row
-          .col-5
-            figure
-              img(src='@/assets/curso/img43.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
-          .col-7
-            .h4 Verticales
-            p Son líneas en dirección recta de arriba hacia abajo o de abajo hacia arriba.
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Diagonales")
-        .row
-          .col-5
-            figure
-              img(src='@/assets/curso/img45.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
-          .col-7
-            .h4 Diagonales
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Líneas paralelas")
-        .row
-          .col-5
-            figure
-              img(src='@/assets/curso/img46.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
-          .col-7
-            .h4 Líneas paralelas
-            p Son aquellas líneas rectas que conservan la misma distancia entre ellas y por más que se prolonguen nunca se van a unir.
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Líneas perpendiculares")
-        .row
-          .col-5
-            figure
-              img(src='@/assets/curso/img47.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
-          .col-7
-            .h4 Líneas perpendiculares
-            p Son dos líneas rectas que se unen en un punto y conforman un ángulo de 90 grados, también llamado ángulo recto.
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Curva")
-        .row
-          .col-5
-            figure
-              img(src='@/assets/curso/img48.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
-          .col-7
-            .h4 Curva
-            p Línea que se va apartando de manera continua de la dirección recta sin formar ángulos.
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Semicurva")
-        .row
-          .col-5
-            figure
-              img(src='@/assets/curso/img49.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
-          .col-7
-            .h4 Semicurva
-            p Línea que se aísla de sus extremos ligeramente para dejar de ser recta.
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Cóncavo")
-        .row
-          .col-5
-            figure
-              img(src='@/assets/curso/img50.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
-          .col-7
-            .h4 Cóncavo
-            p Curva que va hacia adentro. 
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Convexo")
-        .row
-          .col-5
-            figure
-              img(src='@/assets/curso/img51.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
-          .col-7
-            .h4 Convexo
-            p Línea que se aísla de sus extremos ligeramente para dejar de ser recta.
+    .row.mb-5
+      .col-6
+        .tarjeta.tarjeta--rosa--borde.p-4.mb-4
+          .row
+            .col-5
+              figure
+                img(src='@/assets/curso/img44.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
+            .col-7
+              .h4 Horizontales
+              p Son lineas en dirección recta que se asemejan al horizonte.
+        .tarjeta.tarjeta--rosa--borde.p-4.mb-4
+          .row
+            .col-5
+              figure
+                img(src='@/assets/curso/img43.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
+            .col-7
+              .h4 Verticales
+              p Son líneas en dirección recta de arriba hacia abajo o de abajo hacia arriba.
+        .tarjeta.tarjeta--rosa--borde.p-4.mb-4
+          .row
+            .col-5
+              figure
+                img(src='@/assets/curso/img45.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
+            .col-7
+              .h4 Diagonales
+        .tarjeta.tarjeta--rosa--borde.p-4.mb-4
+          .row
+            .col-5
+              figure
+                img(src='@/assets/curso/img46.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
+            .col-7
+              .h4 Líneas paralelas
+              p Son aquellas líneas rectas que conservan la misma distancia entre ellas y por más que se prolonguen nunca se van a unir.
+        .tarjeta.tarjeta--rosa--borde.p-4.mb-4
+          .row
+            .col-5
+              figure
+                img(src='@/assets/curso/img47.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
+            .col-7
+              .h4 Líneas perpendiculares
+              p Son dos líneas rectas que se unen en un punto y conforman un ángulo de 90 grados, también llamado ángulo recto.
+      .col-6
+        .tarjeta.tarjeta--rosa--borde.p-4.mb-4
+          .row
+            .col-5
+              figure
+                img(src='@/assets/curso/img48.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
+            .col-7
+              .h4 Curva
+              p Línea que se va apartando de manera continua de la dirección recta sin formar ángulos.
+        .tarjeta.tarjeta--rosa--borde.p-4.mb-4
+          .row
+            .col-5
+              figure
+                img(src='@/assets/curso/img49.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
+            .col-7
+              .h4 Semicurva
+              p Línea que se aísla de sus extremos ligeramente para dejar de ser recta.
+        .tarjeta.tarjeta--rosa--borde.p-4.mb-4
+          .row
+            .col-5
+              figure
+                img(src='@/assets/curso/img50.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
+            .col-7
+              .h4 Cóncavo
+              p Curva que va hacia adentro. 
+        .tarjeta.tarjeta--rosa--borde.p-4.mb-4
+          .row
+            .col-5
+              figure
+                img(src='@/assets/curso/img51.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
+            .col-7
+              .h4 Convexo
+              p Línea que se aísla de sus extremos ligeramente para dejar de ser recta.
     .span--morado.px-2.py-2.mb-3
       .h5.my-auto Ángulos
     p.mb-5.ms-4 Se pueden construir a partir del corte y unión de dos líneas, la intersección de estas dos líneas se denomina vértice y las líneas son los lados del ángulo. Pueden ser:
