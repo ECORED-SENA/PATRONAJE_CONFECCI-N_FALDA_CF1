@@ -230,8 +230,8 @@
               p Corresponde al estudio de las posiciones resultantes del movimiento y está ligada a la biomecánica.
           hr.hr.mx-auto
     p.mb-5 La antropometría y los campos de la biomecánica afines a ella tratan de medir las características físicas y funciones del cuerpo, incluidas las dimensiones lineales, peso, volumen, movimientos, etc., para optimizar el sistema hombre – máquina - entorno. (Escuela Colombia de Ingeniería Julio Garavito. 
-      a.link(:href="obtenerLink('downloads/antropometria.pdf')" target="_blank") 
-        | https://www.escuelaing.edu.co/uploads/laboratorios/2956_antropometria.pdf)
+      a.link(:href="obtenerLink('downloads/Antropometria.pdf')" target="_blank") 
+        | https://www.escuelaing.edu.co/uploads/laboratorios/Antropometria.pdf)
       br
       br
       |Cuando se habla de anatomía, se confirma que esta ciencia estudia la manera como se distribuye el cuerpo humano y que estudia la estructura de los seres vivos (disposición de huesos y órganos y la relación que existe entre ellos).
