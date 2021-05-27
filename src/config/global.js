@@ -294,7 +294,7 @@ export default {
       texto:
         'Valero, C., E. (s.f.).  Antropometría. Centro Nacional de Nuevas Tecnologías. Instituto Nacional de Seguridad e Higiene en el Trabajo. Ministerio de Trabajo e Inmigración, España.',
       tipo: 'Documento PDF',
-      link: '/downloads/Antropometria.pdf',
+      descarga: '/downloads/Antropometria.pdf',
     },
     {
       texto:
