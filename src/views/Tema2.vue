@@ -13,7 +13,7 @@
     
     #t_2_1.titulo-segundo
       .h4 2.1 Conceptos básicos
-    p.mb-5 Cuando se habla de patronaje es necesario hablar de la antropometría, pues se relaciona directamente con las medidas y dimensiones del cuerpo humano, al igual que su relación directa con la anatomía que estudia la estructura, forma y relaciones de las partes del cuerpo humano que a manera de referecia se pueden llamar tal como están en la figura que aparece a continuación:
+    p.mb-5 Cuando se habla de patronaje es necesario hablar de la antropometría, pues se relaciona directamente con las medidas y dimensiones del cuerpo humano, al igual que su relación directa con la anatomía que estudia la estructura, forma y relaciones de las partes del cuerpo humano que a manera de referencia se pueden llamar tal como están en la figura que aparece a continuación:
     figure.mb-5
           img(src='@/assets/curso/img10.svg', alt='Texto que describa la imagen')
           figcaption.figcaption--gray Figura 5. Referencias corporales dama.
@@ -113,7 +113,7 @@
             td 23
           tr.tr--gray.text-center
             td 8
-            td Largo Talle
+            td Largo Talle Delantero
             td 42.5
             td 43.5
             td 44.5
@@ -124,7 +124,7 @@
             td 49
           tr.text-center
             td 9
-            td Delantero
+            td Largo Talle Trasero
             td 40
             td 40.5
             td 41
@@ -135,7 +135,7 @@
             td 43.5
           tr.tr--gray.text-center
             td 10
-            td Largo Talle Trasero
+            td Largo Manga
             td 59
             td 59.5
             td 60
@@ -146,7 +146,7 @@
             td 61.5
           tr.text-center
             td 11
-            td Largo Manga
+            td Largo Hombro
             td 13
             td 13
             td 13.5
@@ -157,7 +157,7 @@
             td 16
           tr.tr--gray.text-center
             td 12
-            td Largo Hombro
+            td Largo Rodilla
             td 56
             td 57
             td 58
@@ -168,7 +168,7 @@
             td 62.5
           tr.text-center
             td 13
-            td Largo Rodilla
+            td Largo Pantalón 
             td 100
             td 100
             td 101
@@ -179,7 +179,7 @@
             td 106
           tr.tr--gray.text-center
             td 14
-            td Largo Pantalón
+            td Largo Tiro
             td 25
             td 26
             td 27
@@ -190,7 +190,7 @@
             td 34
           tr.text-center
             td 15
-            td Largo Tiro
+            td Ancho Espalda
             td 36
             td 37
             td 38
@@ -202,6 +202,8 @@
     p.mb-5.text-center.fst-italic
       b Nota. 
       b-none Tabla de referencia, ya que cada empresa trabaja con una tabla propia.
+    p.mb-5 La tabla de tallas y medidas industriales que se evidencia en la imagen es de referencia, es importante entender que para los diferentes países y empresas las tablas pueden variar, por eso debe revisarla; sin embargo, debe tener en cuenta que la que se muestra en esta imagen es solo de referencia porque cada empresa trabaja con su propia tabla.
+
     #t_2_2.titulo-segundo
       .h4 2.2. Antropometría, anatomía y ejes del cuerpo
     p.mb-5 La antropometría proviene del griego antropos (humano) y métricos (medida), es la disciplina que describe las diferencias cuantitativas de las medidas del cuerpo humano y estudia las dimensiones considerando como referencia las estructuras anatómicas, esto es, que nos ayuda a describir las características físicas de una persona o grupo de personas, y sirve de herramienta a la ergonomía con la finalidad de adaptar el entorno a las personas.

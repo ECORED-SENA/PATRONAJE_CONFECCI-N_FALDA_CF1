@@ -17,8 +17,10 @@
     p.mb-5 Para dar inicio al proceso de patronaje es importante conocer los materiales y herramientas necesarias para el desarrollo del patrón de falda básica. 
     .h6.mb-5 Materiales.
     SlyderB.mb-5(:datos="datosSlyder1")
+    p.fst-italic.mb-5.text-center Nota: Es necesario conocer los materiales para el desarrollo del patrón. 
     .h6.mb-5 Herramientas
     SlyderB.mb-5(:datos="datosSlyder2")
+    p.fst-italic.mb-5.text-center Nota: Es necesario conocer las herramientas para el desarrollo del patrón. 
     #t_5_2.titulo-segundo
       .h4 5.2. Convenciones
     p.mb-5 Con el fin de facilitar el desarrollo técnico de los patrones es necesario conocer y manejar las diferentes simbologías, que permiten entender de una forma práctica y ágil la construcción de las gráficas y, así mismo, preparar el patrón para el siguiente proceso.
@@ -89,6 +91,7 @@
             td.p-5  Puntos internos
             td Son perforaciones internas.
             td Sirven como guía para la ubicación de  piezas internas como bolsillos, botones, ojales, entre otras.  
+    p.fst-italic.mb-5.text-center Nota: Conocer las simbologías permite preparar el patrón para el siguiente proceso.
     #t_5_3.titulo-segundo
       .h4 5.3. Desarrollo patrón base de falda  
     p.mb-5 Para dar orden a este proceso es necesario hacer una orientación y un paso a paso, tal como se describe en el siguiente instructivo que lo lleva a la elaboración del patrón de falda básica.
@@ -187,12 +190,12 @@ export default {
     datosSlyder1: [
       {
         titulo: 'Pliegos de papel manifold, bond o periódico.',
-        texto: 'Cartón delgado para trazar la modelería.',
+        texto: 'Hoja de pasta delgada hecha de fibras vegetales.',
         imagen: require('@/assets/curso/img64.jpg'),
       },
       {
         titulo: 'Cartulina.',
-        texto: 'Hoja de pasta delgada hecha de fibras vegetales.',
+        texto: 'Cartón delgado para trazar la modelería.',
         imagen: require('@/assets/curso/img65.jpg'),
       },
       {

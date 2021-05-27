@@ -31,7 +31,7 @@
                 img(src='@/assets/curso/img44.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
             .col-7
               .h4 Horizontales
-              p Son lineas en dirección recta que se asemejan al horizonte.
+              p Son líneas en dirección recta que se asemejan al horizonte.
         .tarjeta.tarjeta--rosa--borde.p-4.mb-4
           .row
             .col-5
@@ -86,7 +86,7 @@
               figure
                 img(src='@/assets/curso/img50.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
             .col-7
-              .h4 Cóncavo
+              .h4 Cóncava
               p Curva que va hacia adentro. 
         .tarjeta.tarjeta--rosa--borde.p-4.mb-4
           .row
@@ -94,7 +94,7 @@
               figure
                 img(src='@/assets/curso/img51.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
             .col-7
-              .h4 Convexo
+              .h4 Convexa
               p Línea que se aísla de sus extremos ligeramente para dejar de ser recta.
     .span--morado.px-2.py-2.mb-3
       .h5.my-auto Ángulos

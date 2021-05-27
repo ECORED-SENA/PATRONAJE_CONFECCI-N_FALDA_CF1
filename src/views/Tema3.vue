@@ -52,9 +52,9 @@
         li 
           i.fas.fa-check
           p
-            b Medidas verticales:
+            b Medidas verticales: 
             b-none son los largos y altos. 
-    .h5 3.2.1. Clasificación de las medidas
+    .h5 Clasificación de las medidas
     p.mb-3 Las medidas se clasifican así:
     ul.lista-ul--color.mb-5
         li 
@@ -73,7 +73,7 @@
             b Contornos:
             b-none  estas medidas se toman de manera circular. El punto de llegada es el mismo punto de partida.
     p.mb-5 Este tipo de medidas también se denominan medidas perimetrales porque rodean totalmente el volumen del cuerpo y aquí se encuentran los contornos, como por ejemplo el contorno de cuello, contorno de pecho, contorno de busto, contorno de Submamario, contorno de cintura y contorno de cadera entre otros. Se aplican al patrón en proporción ¼.
-    .h5 3.2.2. Instructivo para la toma de medidas femeninas.
+    .h5 Instructivo para la toma de medidas femeninas.
     p.mb-3 La metodología de toma de medidas es un paso fundamental para realizar un buen trazo de patrones, debe realizarse de manera cuidadosa y precisa teniendo en cuenta todas las observaciones que se hacen en esta presentación.
       br
       br
@@ -98,9 +98,9 @@
             figure
               img(src='@/assets/curso/img22.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
           .col-7
-            .h4 Talle delantero::
+            .h4 Talle delantero:
             p Se coloca la cinta métrica desde la fosa supraclavicular (ángulo cuello-hombro) hasta la cintura (zona umbilical).  
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Centro frente")
+      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Centro frente:")
         .row
           .col-5
             figure
@@ -240,37 +240,37 @@
           .col-7
             .h4 Contorno de puño:
             p Con el puño cerrado se coloca la cinta métrica alrededor de la parte más ancha de la mano.  
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Ancho de pecho #1:")
+      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Ancho de pecho:")
         .row
           .col-5
             figure
               img(src='@/assets/curso/img38.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
           .col-7
-            .h4 Ancho de pecho #1:
+            .h4 Ancho de pecho:
             p Se coloca la cinta métrica del pliegue anterior post axilar, pasando por la parte plana del tórax hasta el otro pliegue anterior post axilar.  
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Separación de busto #2:")
+      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Separación de busto:")
         .row
           .col-5
             figure
               img(src='@/assets/curso/img39.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
           .col-7
-            .h4 Separación de busto #2:
+            .h4 Separación de busto:
             p Se coloca la cinta métrica horizontalmente de pezón a pezón.  
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Ancho espalda #4:")
+      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Ancho espalda:")
         .row
           .col-5
             figure
               img(src='@/assets/curso/img40.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
           .col-7
-            .h4 Ancho espalda #4:
+            .h4 Ancho espalda:
             p Se coloca la cinta métrica desde el pliegue posterior post axilar,pasando por los omoplatos hasta el otro pliegue posterior post axilar.   
-      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Separación de hombros #3:")
+      .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Separación de hombros:")
         .row
           .col-5
             figure
               img(src='@/assets/curso/img41.svg', alt='Texto que describa la imagen' style='width: 192px').mx-auto
           .col-7
-            .h4 Ancho espalda #4:
+            .h4 Ancho espalda:
             p Se coloca la cinta métrica del acromio izquierdo al acromio derecho con los brazos colgando naturalmente.
     p.mb-5 Para verificar la forma de tomar estas medidas consulte el siguiente video:
     figure
