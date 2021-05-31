@@ -104,7 +104,7 @@
     figure.mb-5
           img(src='@/assets/curso/img6.svg', alt='Texto que describa la imagen')
           figcaption.figcaption--gray Figura 3. Conversión de unidades en el sistema métrico.
-    p.mb-5 Como se puede dar cuenta cada cez que se multiplica por 10 se avanza una unidad según el orden de la imagen y, cada vez que se divide por 10 se disminuye una unidad, al final cada medida se puede ver en una o mas unidades, esto quiere decir que 1 m es igual a 100 cm. 
+    p.mb-5 Como se puede dar cuenta cada vez que se multiplica por 10 se avanza una unidad según el orden de la imagen y, cada vez que se divide por 10 se disminuye una unidad, al final cada medida se puede ver en una o mas unidades, esto quiere decir que 1 m es igual a 100 cm. 
     .h5.mb-5 La cinta métrica en la moda
     figure.mb-5
           img(src='@/assets/curso/img7.jpg', alt='Texto que describa la imagen')
