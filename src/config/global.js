@@ -294,13 +294,13 @@ export default {
       texto:
         'Servicio Nacional de Aprendizaje. (2011). Manual de patronaje básico e interpretación de diseños. Centro de Manufactura en Textiles y Cuero - Regional Distrito Capital.',
       tipo: 'Documento PDF',
-      descarga: '/downloads/MANUAL_PATRONAJE_SENA.pdf',
+      descarga: 'downloads/MANUAL_PATRONAJE_SENA.pdf',
     },
     {
       texto:
         'Valero, C., E. (s.f.).  Antropometría. Centro Nacional de Nuevas Tecnologías. Instituto Nacional de Seguridad e Higiene en el Trabajo. Ministerio de Trabajo e Inmigración, España.',
       tipo: 'Documento PDF',
-      descarga: '/downloads/antropometria.pdf',
+      descarga: 'downloads/antropometria.pdf',
     },
   ],
 }
