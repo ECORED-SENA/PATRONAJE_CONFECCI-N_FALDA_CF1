@@ -184,6 +184,12 @@ export default {
         regional: 'Regional Distrito Capital',
       },
       {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+        regional: 'Regional Distrito Capital',
+      },
+      {
         nombre: 'Ana Catalina Córdoba Sus',
         cargo: 'Revisión metodológica y pedagógica',
         centro: 'Centro para la Industria de la Comunicación Gráfica',
@@ -211,6 +217,21 @@ export default {
       },
       {
         nombre: ['Yuly Andrea Rey Quiñonez'],
+        cargo: 'Diseño web y Producción Audiovisual',
+      },
+      {
+        nombre: [
+          'Andrés Herrera',
+          'Carmen Martinez',
+          'Carlos Eduardo Garavito',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Laura Murcia Pardo',
+          'Lina Perez',
+          'Maria Carolina Tamayo',
+          'Ricardo Vasquez',
+          'Wilson Andrés Arenales Caceres',
+          'Zuleidy María Ruiz Torres',
+        ],
         cargo: 'Diseño web y Producción Audiovisual',
       },
       {

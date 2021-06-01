@@ -275,7 +275,7 @@
     p.mb-5 Para verificar la forma de tomar estas medidas consulte el siguiente video:
     figure
     .video
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/vFERGlTF6C8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/Wdc-nBbrWG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Toma de medidas  
 </template>
 

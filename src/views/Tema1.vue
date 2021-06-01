@@ -6,7 +6,7 @@
       .titulo-principal__numero
         .h3 1
       .h3 Matemática y sistema métrico
-    .video
+    .video.mb-5
       iframe(width="560" height="315" src="https://www.youtube.com/embed/fJC8RyGEZQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Matemática y sistema métrico
     p.mb-5 ¿Sabía que la matemática es una ciencia que tiene un lenguaje? Este lenguaje permite el conocimiento y la exploración del mundo a través de los  números, figuras geométricas y símbolos.
