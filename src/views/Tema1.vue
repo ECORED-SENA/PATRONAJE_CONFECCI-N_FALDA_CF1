@@ -6,6 +6,9 @@
       .titulo-principal__numero
         .h3 1
       .h3 Matemática y sistema métrico
+    .video
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/fJC8RyGEZQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Matemática y sistema métrico
     p.mb-5 ¿Sabía que la matemática es una ciencia que tiene un lenguaje? Este lenguaje permite el conocimiento y la exploración del mundo a través de los  números, figuras geométricas y símbolos.
     .row
       .col-lg-7
@@ -16,6 +19,7 @@
       .col-lg-5
         figure.mb-5
           img(src='@/assets/curso/img2.svg', alt='Texto que describa la imagen')
+    
     .row
       .col-lg-7
         p.mb-5 La importancia de este principio es alta tal como lo dice Padilla (2018) “Para todas las personas que desean entrar en el maravilloso mundo del patronaje es bueno aclararles ciertos conceptos matemáticos, que, aunque sean muy básicos, es importante tenerlos muy claros, porque de estas operaciones depende elaborar bien los patrones” y más allá de los patrones es educarse en hacer ropa, crear diseños, ya sea con tallas y moldes, ya hechos o tomando medidas y haciendo los moldes. Se debe tener unos conocimientos básicos para poder entender la teoría o para aplicar desarrollos de modas y reconocer la cantidad de tela que se debe comprar. 
