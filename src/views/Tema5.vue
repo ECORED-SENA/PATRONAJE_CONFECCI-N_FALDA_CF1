@@ -199,7 +199,7 @@ export default {
         imagen: require('@/assets/curso/img65.jpg'),
       },
       {
-        titulo: 'Lapiz negro.',
+        titulo: 'Lápiz negro.',
         texto:
           'Utensilio para dibujar o escribir formado por un cilindro de madera, con una barra de grafito en su interior.',
         imagen: require('@/assets/curso/img66.jpg'),

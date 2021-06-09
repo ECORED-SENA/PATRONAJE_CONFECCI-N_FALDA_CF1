@@ -263,7 +263,7 @@
       b-none que estudia las medidas y dimensiones de las partes del cuerpo, está directamente relacionada con la 
       b anatomía. 
       b-none Las tallas que se enuncian en tablas de medidas, permiten lograr prendas exactas partiendo de la identificación de puntos 
-      b corpóreos
+      b corpóreos 
       b-none para toma de medidas y posterior comparación y diseño de las prendas de vestir.
       
 

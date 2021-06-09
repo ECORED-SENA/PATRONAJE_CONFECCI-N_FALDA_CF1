@@ -172,7 +172,7 @@
           .col-7
             .h4 Largo de pantalón o falda # 2:
             p Se coloca la cinta métrica desde la línea lateral de cintura (reja costal) por la parte lateral exterior hasta el maléolo exterior o el largo deseado de la prenda.
-    .h5 Medidas horinzontales.
+    .h5 Medidas horizontales.
     p.mb-5 Son las medidas asociadas a los anchos, separaciones y contornos, se toman de forma horizontal. Estas permiten realizar modificaciones a los patrones base, haciendo las prendas más estéticas y ajustadas a la figura de los clientes objetivo. 
       br
       br
